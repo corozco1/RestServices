@@ -19,6 +19,7 @@ class RestServiceApplicationTests {
 	@Test
 	void testHello() {
 		log.info("into method testHello");
+		log.info("probando trigger...");
 		log.info("exit method testHello");
 	}
 
